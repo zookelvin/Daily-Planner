@@ -3,7 +3,7 @@
 Welcome to the **Weekly Planner** project! This is a simple web application to help you organize your weekly tasks efficiently.
 
 ## Live Demo
-Check out the live website here: [Weekly Planner](https://zookelvin.github.io/Weekly-Planner/)
+Check out the live website here: [Weekly Planner](https://zookelvin.github.io/Daily-Planner/)
 
 ---
 
